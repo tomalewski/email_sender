@@ -1,0 +1,10 @@
+From: CS 484 Project <[[EMAIL]]@nmsu.edu>
+To: [[NAME]] <[[EMAIL]]@nmsu.edu>
+Subject: CS484 - I can program with sockets!
+Hello [[NAME]],
+
+Congratulations! If you are reading this in your email client, then something has
+gone right.
+
+Yours most faithfully,
+[[NAME]]
